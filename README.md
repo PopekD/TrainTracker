@@ -28,4 +28,13 @@ Anyone who wants to try and test the app have to follow the steps below:
 
 
 
-![photo_5947353739075631263_y](https://user-images.githubusercontent.com/94826253/214521652-36a44557-04bd-4c6d-9f15-8b9f999e8aa4.jpg)![photo_5947353739075631262_y](https://user-images.githubusercontent.com/94826253/214521679-9f745ab4-fa3e-4e3a-a016-3120c3974734.jpg)
+![photo_5947353739075631263_y](https://user-images.githubusercontent.com/94826253/214521652-36a44557-04bd-4c6d-9f15-8b9f999e8aa4.jpg) ![photo_5947353739075631262_y](https://user-images.githubusercontent.com/94826253/214521679-9f745ab4-fa3e-4e3a-a016-3120c3974734.jpg) 
+![photo_5947353739075631261_y](https://user-images.githubusercontent.com/94826253/214521789-033bc707-a724-4606-9099-ab9045e6418f.jpg) 
+![photo_5947353739075631259_y](https://user-images.githubusercontent.com/94826253/214521816-063d92ca-83f5-4452-b269-d93bdbe2fa5e.jpg) 
+![photo_5947353739075631269_y](https://user-images.githubusercontent.com/94826253/214521856-b1f25d3e-74be-4474-8fd1-8a57bade6c0a.jpg) 
+![photo_5947353739075631268_y](https://user-images.githubusercontent.com/94826253/214521877-2d8fba3f-b5be-4e5e-b272-8c03cebc0031.jpg) 
+![photo_5947353739075631260_y](https://user-images.githubusercontent.com/94826253/214521894-7f64d99d-8c5f-49be-931a-0c46ca9169ac.jpg) 
+![photo_5947353739075631276_y](https://user-images.githubusercontent.com/94826253/214522365-e061878f-0f88-4eb6-939d-f1bdad5ecebe.jpg) 
+![photo_5947353739075631277_y](https://user-images.githubusercontent.com/94826253/214522380-8fe7f7a4-9b1c-475e-981c-b9da68a6007d.jpg) 
+![photo_5947353739075631275_y](https://user-images.githubusercontent.com/94826253/214522391-6711162c-995c-4e7f-9a5c-4a6d4b51cf45.jpg) 
+![photo_5947353739075631270_y](https://user-images.githubusercontent.com/94826253/214522415-08a3ae96-6259-4b48-a900-376def045b78.jpg)
