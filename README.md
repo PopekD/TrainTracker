@@ -27,4 +27,5 @@ Anyone who wants to try and test the app have to follow the steps below:
 //ScreenShots : // 
 
 
-![photo_5947353739075631262_y](https://user-images.githubusercontent.com/94826253/214520989-98d9dc89-a84a-49a2-a759-8f0121f68add.jpg)
+
+![photo_5947353739075631263_y](https://user-images.githubusercontent.com/94826253/214521652-36a44557-04bd-4c6d-9f15-8b9f999e8aa4.jpg)![photo_5947353739075631262_y](https://user-images.githubusercontent.com/94826253/214521679-9f745ab4-fa3e-4e3a-a016-3120c3974734.jpg)
