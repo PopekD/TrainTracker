@@ -4,7 +4,7 @@ Cross-Platform Mobile Application to track desired train in FInland.
 
 //Source code -> Master Branch
 
-//Description: React-Native, JavaScript Cross-Platform App to track a specific train using Appollo-Client to fetch data from digtrafic REST  API v1 and v2(GraphQL) and use it to set the Map Marker location on the map In real time. 
+//Description: Track your train in real-time. Built using React-Native, this app allows you to follow the location of a specific train on both iOS and Android devices. Using the Apollo-Client to fetch data from Digitraffic's REST API v1 and v2 (GraphQL), I have created an interactive map that displays the location of your train in real-time using Map Marker, so you'll always know when your train will arrive.
 
 DigTrafic API documentation: https://www.digitraffic.fi/rautatieliikenne/
 
